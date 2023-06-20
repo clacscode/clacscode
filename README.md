@@ -1,20 +1,19 @@
-<h1 align="center">Hola Mundo!<br>Soy Claudio Sepúlveda.</h1>
+<h1 align="center">Claudio Sepúlveda</h1>
 
 ### Perfil
 Actualmente, trabajo como Ingeniero de Software Jr en la **Bolsa de Santiago**. Tengo un poco mas de dos años de experiencia (en total) y hasta ahora me ha ido bastante bien. Disfruto mucho de mi trabajo y siempre busco hacerlo de la mejor manera posible, aportando valor y aprendiendo cada día. 
   
 #### Sobre mí
  
-- Siempre estoy aprendiendo, me encanta! Dedico de mi tiempo libre a: **NodeJs, TypeScript, NestJs, Docker, Kubernetes, Angular, React, PostgreSQL y MongoDB**. Tambien suelo leer articulos y escuchar podcast de programación e Ingenieria/Arquitectura de Software. 
+- Siempre estoy aprendiendo y disfruto cada momento. Dedico mi tiempo libre a profundizar en diversas tecnologías como **NodeJs, TypeScript, NestJs, Docker, Kubernetes, Angular, React, PostgreSQL y MongoDB**. Además, me mantengo actualizado explorando muchos recursos, incluyendo la lectura de artículos y la escucha de podcasts relacionados con la programación, ingeniería y arquitectura de software. Esta estrategia me permite expandir mis conocimientos y estar al tanto de las últimas tendencias y prácticas de la industria.
 
 - Estoy trabajando en mi primer Side Project, llamado DebtHub, y he logrado un gran avance. Es una solución personalizada para uno de los problemas a los que me enfrento regularmente. Estoy desarrollando esta plataforma con el objetivo de solucionar los inconvenientes financieros que enfrento mes a mes. Una vez que haya alcanzado una versión estable, me encantaría que llegara a más personas, ya que estoy seguro de que les será de gran ayuda.
 
-- Tengo una wiki en Notion que suelo alimentar a diario. Es bastante interesante. Todo lo que aprendo, ya sea conceptos, terminos, comandos, nuevas tecnologias, buenas practicas, errores que solucionó (y más), lo voy documentando en esta preciada wiki. <br><br> Tambien tengo guias y manuales para X cosas. Suelen ser flujos de trabajo. Preparo un documento en Notion y luego lo exporto a PDF para compartirlo con mi equipo de trabajo. Por ejemplo: "Como hacer debug a cierto servicio o pieza de código", "Guia Git para X repositorio". 
+- Tengo una wiki en Notion a la que suelo agregar contenido diariamente. Es bastante interesante. Todo lo que aprendo, ya sea conceptos, terminos, comandos, nuevas tecnologías, buenas prácticas, errores que solucionó (y más), lo documento en esta valiosa wiki. <br><br> Además, tengo guías y manuales para diversas cosas, que suelen ser flujos de trabajo. Preparo un documento en Notion y luego lo exporto a PDF para compartirlo con mi equipo de trabajo. Por ejemplo, tengo guías como "Como hacer debug a cierto servicio o pieza de código" o "Guia Git para X repositorio". 
 
-- Soy un gymrat. Sí, soy bastante "friki" con el gimnasio. La verdad, es que soy muy tryhard en todo lo que me propongo, es algo que he ido descubriendo y me gusta, me da confianza para lograr mis objetivos. Un joven bastante perseverante, disciplinado y émpatico. 
+- Soy un gymrat. Sí, soy bastante "friki" con el gimnasio. La verdad es que tengo una mentalidad enfocada en lograr mis objetivos y a medida que he ido descubriendo esta cualidad en mi, me ha brindado confianza para enfrentar desafíos. Soy un joven perseverante, disciplinado y empático. 
 <br><br>
-Tampoco quiero dejar en el olvido mi lado gamer. Años atras dedique muchas horas al gaming, me interesaban los eSports y en los juegos a los que me dedique consegui un gran nivel. Cuando gusten me agregan a Discord para unas partiditas <3
-
+Tampoco quiero dejar en el olvido mi lado gamer. Años atras dedique muchas horas al gaming y me interesé por los eSports. Logré alcanzar un nivel destacado en los juegos a los que me dediqué. Si gustan, pueden agregarme a Discord para unas partiditas. <3
 
 <div align="center">
     <h3>Mis redes sociales:</h3>
