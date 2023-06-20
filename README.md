@@ -1,13 +1,13 @@
 <h1 align="center">Hola Mundo!<br>Soy Claudio Sepúlveda.</h1>
 
 ### Perfil
-Actualmente, estoy trabajando como Jr Software Engineer en **Bolsa de Santiago**. Tengo un poco mas de dos años de experiencia y la verdad es que se me da bastante bien. Me gusta lo que hago y siempre intento hacerlo de la mejor forma, agregando valor y aprendiendo cada día. 
+Actualmente, trabajo como Ingeniero de Software Jr en la **Bolsa de Santiago**. Tengo un poco mas de dos años de experiencia (en total) y hasta ahora me ha ido bastante bien. Disfruto mucho de mi trabajo y siempre busco hacerlo de la mejor manera posible, aportando valor y aprendiendo cada día. 
   
 #### Sobre mí
  
 - Siempre estoy aprendiendo, me encanta! Dedico de mi tiempo libre a: **NodeJs, TypeScript, NestJs, Docker, Kubernetes, Angular, React, PostgreSQL y MongoDB**. Tambien suelo leer articulos y escuchar podcast de programación e Ingenieria/Arquitectura de Software. 
 
-- Estoy trabajando en mi primer Side Project **DebtHub**, lo he vanzado bastante y es una solución a uno de mis problemas. La estoy desarrollando para dar una solución a "dolores" con los que me enfrento mes a mes. Cuando tenga una versión estable me gustaria que llegara a mas personas, estoy seguro que les sera de ayuda.
+- Estoy trabajando en mi primer Side Project, llamado DebtHub, y he logrado un gran avance. Es una solución personalizada para uno de los problemas a los que me enfrento regularmente. Estoy desarrollando esta plataforma con el objetivo de solucionar los inconvenientes financieros que enfrento mes a mes. Una vez que haya alcanzado una versión estable, me encantaría que llegara a más personas, ya que estoy seguro de que les será de gran ayuda.
 
 - Tengo una wiki en Notion que suelo alimentar a diario. Es bastante interesante. Todo lo que aprendo, ya sea conceptos, terminos, comandos, nuevas tecnologias, buenas practicas, errores que solucionó (y más), lo voy documentando en esta preciada wiki. <br><br> Tambien tengo guias y manuales para X cosas. Suelen ser flujos de trabajo. Preparo un documento en Notion y luego lo exporto a PDF para compartirlo con mi equipo de trabajo. Por ejemplo: "Como hacer debug a cierto servicio o pieza de código", "Guia Git para X repositorio". 
 
