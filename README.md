@@ -16,8 +16,9 @@ Actualmente, trabajo como Ingeniero de Software Jr en la **Bolsa de Santiago**. 
 Tampoco quiero dejar en el olvido mi lado gamer. Años atras dedique muchas horas al gaming y me interesé por los eSports. Logré alcanzar un nivel destacado en los juegos a los que me dediqué. Si gustan, pueden agregarme a Discord para unas partiditas. <3
 
 <div align="center">
-    <h3>Mis redes sociales:</h3>
+    <h3>Social:</h3>
     <p>
+        <p>clacscodes@gmail.com</p>
         <a href="https://twitter.com/clacscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clacscode" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/claudio-sepulveda-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudio-sepulveda-s" height="30" width="40" /></a>
         <a href="https://stackoverflow.com/users/clacscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="clacscode" height="30" width="40" /></a>
