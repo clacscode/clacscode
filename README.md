@@ -1,5 +1,5 @@
 <hr>
-<p align="justify">Software Engineer con una fuerte pasión por el aprendizaje continuo, el crecimiento técnico y la construcción de soluciones con un propósito. A lo largo de mi camino he trabajado en diversos entornos y desafíos, adaptándome rápidamente a nuevas herramientas y enfoques para desarrollar productos funcionales y con valor real. Actualmente desarrollo DebtHub (o PaybApp), una plataforma para gestionar desafíos financieros cotidianos, y también mantengo una wiki personal en Notion, donde documento aprendizajes, buenas prácticas y flujos de trabajo. Me gusta mantenerme al día del nicho tecnológico/nerd a través de artículos, podcasts y comunidades tech. Mi meta es compartir mi conocimiento también en GitHub e Instagram para aportar valor a más personas (aunque todavía no me atrevo).</p>
+<p align="justify">Software Engineer que le gusta el aprendizaje continuo, el crecimiento técnico y la construcción de soluciones que tengan un proposito. Durante mi camino he trabajado en diversos entornos y desafíos, adaptándome rápidamente a nuevas herramientas y enfoques para desarrollar productos funcionales y con valor real. Me gusta mantenerme al día del nicho tecnológico/nerd/geek a través de artículos, podcasts y comunidades tech. Tengo metas ambiciosas, estoy trabajando en ellas :)</p>
 
 <hr>
 
