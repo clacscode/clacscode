@@ -1,5 +1,5 @@
 <hr>
-<p align="justify">Software Engineer que le gusta el aprendizaje continuo, el crecimiento técnico y la construcción de soluciones que tengan un proposito. Durante mi camino he trabajado en diversos entornos y desafíos, adaptándome rápidamente a nuevas herramientas y enfoques para desarrollar productos funcionales y con valor real. Me gusta mantenerme al día del nicho tecnológico/nerd/geek a través de artículos, podcasts y comunidades tech. Tengo metas ambiciosas, estoy trabajando en ellas :)</p>
+<p align="justify">Humano que le gusta el aprendizaje continuo, el crecimiento técnico y la construcción de soluciones que tengan un proposito. Durante mi camino he trabajado en diversos entornos y desafíos, adaptándome rápidamente a nuevas herramientas y enfoques para desarrollar productos funcionales y con valor real. También, me gusta mantenerme al día del nicho tecnológico/nerd/geek a través de artículos, podcasts y comunidades tech. Tengo metas ambiciosas, estoy trabajando en ellas :)</p>
 
 <hr>
 
