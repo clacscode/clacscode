@@ -11,7 +11,7 @@
 
 Software Engineer en **Walmart Chile** · Co-Founder & CTO en **[KORR Labs](https://www.korr.cl/es)**
 
-<sub>Construyo productos web de punta a punta, desde el modelo de datos hasta el deploy.</sub>
+<sub>Construyo software de punta a punta, desde la idea hasta producción.</sub>
 
 <br>
 
