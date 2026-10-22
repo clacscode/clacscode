@@ -23,8 +23,8 @@ Software Engineer en **Walmart Chile** · Co-Founder & CTO en **[KORR Labs](http
 <a href="https://twitter.com/clacscode" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="24" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/clacs_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="24" /></a>
 
-<sub><a href="mailto:clacscodes@gmail.com">clacscodes@gmail.com</a></sub>
-<sub><a href="mailto:claudio@korr">clacscodes@gmail.com</a></sub>
+<sub><a href="mailto:clacscodes@gmail.com">clacscodes@gmail.com</a></sub><br>
+<sub><a href="mailto:claudio@korr">claudio@gmail.com</a></sub>
 
 
 <br>
